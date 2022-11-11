@@ -1,5 +1,6 @@
 
-
+// In the browser our Global object is the Window object
+// In Node our Global object is Global
 console.log(num);
 
 var num = 10;
